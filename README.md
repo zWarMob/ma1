@@ -31,7 +31,7 @@ This repository contains the first mandatory assignment (MA1) for AIML25. It con
 **Please see due dates and other relevant information in the assignment description on Canvas.**
 
 ## Getting started
-Please see sections VII - XI in the `Development setup guide` document on Canvas for instructions. To iterate, you need to:
+Please see the relevant sections in the `Development setup guide` document on Canvas for instructions. To iterate, you need to:
 
 1. Fork this repository to your own GitHub account.
 2. Clone the forked repository to your local machine.
@@ -86,16 +86,3 @@ You can start with the following:
 - Pooling layers reduce the spatial dimensions of the feature maps and help reduce computation and overfitting. A common choice is to use 2x2 max pooling with a stride of 2, which halves the spatial dimensions.
 <br>
 <br>
-
-___
-
-
-## Submission
-
-Please see sections VII - XI in the `AIML25-dev-setup.pdf` document on Canvas for instructions on 
-
-- how to submit your assignment.
-- setting up your development environment.
-- how to work with the assignment repository.
-- setting up virtual environments.
-- using git and GitHub.
