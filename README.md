@@ -44,7 +44,11 @@ Please see the relevant sections in the `Development setup guide` document on Ca
 In this assignment, your task is to construct an MLP architecture for the well-known [MNIST dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset).
 
 * Read through the `material/nns_pytorch.ipynb` notebook to understand the basics of PyTorch and how to build a simple neural network.
-* Build a n-layer MLP (artificial neural network) in the `assignments/nn.ipynb` notebook.
+* Build a n-layer MLP (artificial neural network) in the `assignments/nn.ipynb` notebook
+
+    * Create the architecture (section 4)
+    * Set the training parameters (section 5)
+    
 * See how good of a model you can build!
 
 Feel free to play around with the model architecture and see how the training time/performance changes, but to begin, you can try the following:
@@ -65,6 +69,10 @@ In this assignment, your task is to build a CNN architecture for multi-class cla
 
 * Read through the `material/cnns_pytorch.ipynb` notebook to understand the basics of how to build a convolutional neural network.
 * Build a n-layer CNN in the `assignments/cnn.ipynb` notebook.
+
+    * Create the architecture (section 4)
+    * Set the training parameters (section 5)
+
 * See how good of a model you can build!
 
 Feel free to play around with the model architecture - add, layers, adjust layer parameters etc. - and see how the training time/performance changes. Try to get the best performance you can!
