@@ -49,7 +49,7 @@ In this assignment, your task is to construct an MLP architecture for the well-k
     * Create the architecture (section 4)
     * Set the training parameters (section 5)
     
-* See how good of a model you can build!
+* See how good a model you can build!
 
 Feel free to play around with the model architecture and see how the training time/performance changes, but to begin, you can try the following:
 
@@ -73,7 +73,7 @@ In this assignment, your task is to build a CNN architecture for multi-class cla
     * Create the architecture (section 4)
     * Set the training parameters (section 5)
 
-* See how good of a model you can build!
+* See how good a model you can build!
 
 Feel free to play around with the model architecture - add, layers, adjust layer parameters etc. - and see how the training time/performance changes. Try to get the best performance you can!
 
