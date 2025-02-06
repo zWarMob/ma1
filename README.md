@@ -21,7 +21,7 @@ This repository contains the first mandatory assignment (MA1) for AIML25. It con
 
 * **Helper code**: You are given a lot of boilerplate code as functions in `/src` to be imported into each of the notebooks. This is to simplify the assignments. Please acquaint yourself with this "helper code".
 
-* **Guides**: Each of the sub-assignments have a corresponding *guide notebook*. Everything needed to complete the assignments are in the notebooks. The guide notebooks are there to help you understand and practice the concepts. Please refer to the table below:
+* **Guides**: Each of the sub-assignments have a corresponding *guide notebook*. Everything needed to complete the assignments is in the notebooks. The guide notebooks are there to help you understand and practice the concepts. Please refer to the table below:
 
 | Assignment | Assignment notebook | Guide notebook | Description |
 | --- | --- | --- | --- |
