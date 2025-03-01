@@ -1,3 +1,7 @@
+```
+export PATH=$PATH::/home/pz/anaconda3/bin
+```
+
 **AI & Machine Learning (KAN-CINTO4003U) - Copenhagen Business School | Fall 2025**
 
 ***
@@ -5,9 +9,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Petyo Zhechev | 157382 |
 
 ***
 
@@ -16,8 +18,6 @@
 # Mandatory assignment 1
 
 This repository contains the first mandatory assignment (MA1) for AIML25. It consists of two parts: Artificial Neural Networks and Convolutional Neural Networks. Please read the description for each part of the assignment carefully. 
-
-* **Dev setup**: To complete this assignment, you will need to have followed the Development Setup guide. Please complete this setup before starting the assignment.
 
 * **Helper code**: You are given a lot of boilerplate code as functions in `/src` to be imported into each of the notebooks. This is to simplify the assignments. Please acquaint yourself with this "helper code".
 
@@ -33,11 +33,11 @@ This repository contains the first mandatory assignment (MA1) for AIML25. It con
 ## Getting started
 Please see the relevant sections in the `Development setup guide` document on Canvas for instructions. To iterate, you need to:
 
-1. Fork this repository to your own GitHub account.
-2. Clone the forked repository to your local machine.
-3. Create a virtual environment and install the required packages.
-4. Start working on the assignment.
-5. Commit and push your changes to your GitHub repository.
+1. ✅ Fork this repository to your own GitHub account.
+2. ✅ Clone the forked repository to your local machine.
+3. ✅ Create a virtual environment and install the required packages.
+4. ✅ Start working on the assignment.
+5. ✅ Commit and push your changes to your GitHub repository.
 6. Submit a link to your GH assignment repo on Canvas.
 
 ## Part 1: Artificial Neural Networks
